@@ -1,0 +1,333 @@
+@media (max-width: 1024px) {
+  .body {
+    max-width: 1024px;
+  }
+
+  .header-promo {
+    width: 1024px;
+    min-height: 850px;
+  }
+
+  .header__logo {
+    margin-left: 42px;
+  }
+
+  .navbar__menu {
+    gap: 44px;
+  }
+
+  .content__row {
+    margin: 154px 40px 0 115px;
+  }
+
+  .col__title {
+    font-size: 36px;
+  }
+
+  .col__separator {
+    margin-top: 30px;
+  }
+
+  .col__subtitle {
+    font-size: 14px;
+  }
+
+  .form__title {
+    font-size: 18px;
+  }
+
+  .form__data {
+    width: 19rem;
+  }
+
+  .promo__title {
+    font-size: 18px;
+  }
+
+  .promo__text {
+    font-size: 14px;
+  }
+
+  .submenu__link {
+    gap: 36px;
+  }
+
+  .tabs__container {
+    max-width: 1024px;
+    margin: 0 16px;
+  }
+
+  .tab__nav {
+    margin-top: 60px;
+  }
+
+  .list__item {
+    padding: 8px 30px;
+  }
+
+  .content__tab-title {
+    font-size: 24px;
+  }
+
+  .content__tab-text {
+    font-size: 14px;
+  }
+
+  .content__tab-item {
+    width: 478px;
+    margin: 0 13px 0 80px;
+  }
+
+  .content__tab-icon {
+    width: 398px;
+  }
+
+  .content__icon {
+    width: 398px;
+  }
+
+  .promo__title_name {
+    font-size: 24px;
+    margin-top: 0;
+  }
+
+  .promo__title_text {
+    font-size: 14px;
+  }
+
+  .awesome__container {
+    margin: 0 16px;
+    max-width: 1024px;
+  }
+
+  .pricing__container {
+    margin: 0 16px;
+    max-width: 1024px;
+  }
+
+  .pricing__sections {
+    margin: 59px 16px 0 16px;
+  }
+
+  .column {
+    width: 310px;
+  }
+
+  .customers__conteiner {
+    margin: 0 16px;
+    max-width: 1024px;
+  }
+
+  .customers__column {
+    width: 310px;
+  }
+
+  .form__container {
+    margin-top: 20px;
+    margin: 0 16px;
+    max-width: 1024px;
+  }
+
+  .data {
+    width: 486px;
+  }
+
+  .form__textarea {
+    width: 486px;
+  }
+
+  .link__item {
+    width: 45px;
+  }
+
+  .footer__text {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 720px) {
+
+  body {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  .header-promo {
+    width: 720px;
+    min-height: 400px;
+    background-position: center;
+  }
+
+  .header__logo {
+    margin: 0;
+  }
+
+  .row__logo {
+    display: none;
+  }
+
+  .navbar {
+    display: none;
+  }
+
+  .hamburger {
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: block;
+    left: 0px;
+    top: 23px;
+  }
+
+  .content__row {
+    flex-direction: column;
+    margin: 84px 16px 0 16px;
+    align-items: center;
+  }
+
+  .row__column {
+    text-align: center;
+  }
+
+  .col__separator {
+    display: inline-block;
+    margin: 44px auto 0 auto;
+  }
+
+  .form__data {
+    width: 14rem;
+  }
+
+  .form__button {
+    left: 0px;
+  }
+
+  .header__submenu {
+    height: 180px;
+  }
+
+  .submenu {
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+  }
+
+  .promo__title {
+    padding-bottom: 5px;
+  }
+
+  .promo__text {
+    padding-bottom: 16px;
+  }
+
+  .submenu__link {
+    gap: 0;
+  }
+
+  .link__icon {
+    height: 34px;
+  }
+
+  .tabs__container {
+    max-width: 720px;
+  }
+
+  .list__item {
+    padding: 4px 24px
+  }
+
+  .content__tab-item {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .content__tab-icon {
+    display: none;
+  }
+
+  .awesome__container {
+    max-width: 720px;
+  }
+
+  .promo__title_border {
+    padding: 0;
+  }
+
+  .card__container {
+    flex-direction: column;
+  }
+
+  .pricing__container {
+    max-width: 720px;
+  }
+
+  .pricing__sections {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .colums_another {
+    margin: 0;
+    filter: unset;
+  }
+
+  .customers__conteiner {
+    max-width: 720px;
+  }
+
+  .customers__content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .stylish {
+    margin-bottom: 0;
+  }
+
+  .btn__stylish {
+    width: 287px;
+    height: 50px;
+  }
+
+  .promo__title_name {
+    padding: 0;
+  }
+
+  .form__container {
+    max-width: 720px;
+    min-width: 320px;
+    margin: 0;
+  }
+
+  .form {
+    text-align: center;
+    padding: 0;
+  }
+
+  .data {
+    display: inline-block;
+    width: 280px;
+    padding: 0;
+    margin: 0;
+  }
+
+  .form__textarea {
+    text-align: left;
+    width: 288px;
+    position: static;
+    height: 50px;
+  }
+
+  .footer__link {
+    gap: 0;
+  }
+
+  .link__item {
+    width: 36px;
+  }
+
+  .link__icon {
+    height: 20px;
+  }
+
+}
